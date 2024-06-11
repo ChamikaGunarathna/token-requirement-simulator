@@ -1,0 +1,6 @@
+#folders to ignore
+build/
+dist/
+
+*ipynb
+*spec
